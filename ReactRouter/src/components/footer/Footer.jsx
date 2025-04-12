@@ -36,7 +36,11 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
+<<<<<<< HEAD
                                         href="https://github.com/Yuvrajnegi35"
+=======
+                                        href="https://github.com/hiteshchoudhary"
+>>>>>>> d75c7d6a960761162903061658e33246e84cd599
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
@@ -72,8 +76,13 @@ export default function Footer() {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2023
+<<<<<<< HEAD
                         <a href="#" className="hover:underline">
                            Yuvrajnegi
+=======
+                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
+                            hiteshchoudhary
+>>>>>>> d75c7d6a960761162903061658e33246e84cd599
                         </a>
                         . All Rights Reserved.
                     </span>

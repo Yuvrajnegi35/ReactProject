@@ -82,7 +82,11 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
+<<<<<<< HEAD
                                     info@gamil.com
+=======
+                                    info@acme.org
+>>>>>>> d75c7d6a960761162903061658e33246e84cd599
                                 </div>
                             </div>
                         </div>
